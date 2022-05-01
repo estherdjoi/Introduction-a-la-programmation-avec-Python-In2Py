@@ -1,9 +1,8 @@
-# Cahiers virtuels du cours: Bases de programmation python
+# Cahiers virtuels du cours: Introduction à la programmation avec Python (In2Py)
 
-## [Site officiel du cours](https://gabayae.github.io/bases_de_programmation_python/).
+### [Site officiel du cours](https://gabayae.github.io/bases_de_programmation_python/)
 
 
-## <a href="http://imsp-benin.com/" ><img src="http://imsp-benin.com/home/images/logoimsp.png" style="float:left; max-width: 80px; display: inline" alt="IMSP"/> |  [*Institut de Mathématiques et Sciences Physiques*](http://imsp-benin.com/home/page.php?index=directeur&parent=presentation)
 
 
 
