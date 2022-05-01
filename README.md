@@ -31,9 +31,9 @@ Le langage de programmation Python est souvent utilisé dans les domaines scient
 Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de script le plus utilisé au monde car on peut quasiment tout faire avec: programmation web, statistiques, machine learning, gestion de bases de données. La communauté de Python est la plus grande dans le monde de la programmation: si vous voulez quelque chose, quelqu'un l'a sûrement déjà fait.
 
 
-## Les sujets que nous aborderons comprennent:
+## Cahiers virtuels de cours: les sujets que nous aborderons comprennent:
  
-  * Programmation et notions de base en Python; voir le dossier [cahiers_virtuels_de_coursles_fondamentaux_du_langage_python](https://github.com/KeuCoding/Introduction-a-la-programmation-avec-Python-In2Py/tree/main/les_fondamentaux_du_langage_python);
+  * Programmation et notions de base en Python; voir le dossier [les_fondamentaux_du_langage_python](https://github.com/KeuCoding/Introduction-a-la-programmation-avec-Python-In2Py/tree/main/les_fondamentaux_du_langage_python);
 
 **** 
   Nous n'aborderons pas les deux aspects ci-dessous mais vous pourrez les lire plus tard:
