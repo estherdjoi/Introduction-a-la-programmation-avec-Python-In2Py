@@ -22,20 +22,17 @@ Nous nous concentrons uniquement sur Python 3. Ce cours, à la fois minimaliste 
 *Pour ce cours, des discussions LIVE! peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions, même quand le cours sera terminé.*
 
 
-
-## [Dépôt GitHub des cahiers](https://github.com/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours)
-
-
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce cours n'attend de vous aucun prérequis de programmation.
 
 Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de script le plus utilisé au monde car on peut quasiment tout faire avec: programmation web, statistiques, machine learning, gestion de bases de données. La communauté de Python est la plus grande dans le monde de la programmation: si vous voulez quelque chose, quelqu'un l'a sûrement déjà fait.
 
+****
 
-## Cahiers virtuels de cours: les sujets que nous aborderons comprennent:
+## `Cahiers virtuels de cours`: les sujets que nous aborderons comprennent:
  
   * Programmation et notions de base en Python; voir le dossier [les_fondamentaux_du_langage_python](https://github.com/KeuCoding/Introduction-a-la-programmation-avec-Python-In2Py/tree/main/les_fondamentaux_du_langage_python).
 
-**** 
+**** **** 
   Nous n'aborderons pas les deux aspects ci-dessous mais vous pourrez les lire plus tard:
   
   * Python pour le calcul scientique, voir le dossier [calcul_scientifique_avec_python](https://github.com/KeuCoding/Introduction-a-la-programmation-avec-Python-In2Py/tree/main/calcul_scientifique_avec_python) (... en préparation).
