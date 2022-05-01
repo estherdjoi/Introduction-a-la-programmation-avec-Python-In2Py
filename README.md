@@ -1,4 +1,4 @@
-# Cahiers virtuels du cours: Introduction à la programmation avec Python (In2Py)
+# Introduction à la programmation avec Python (`In2Py`)
 
 ### [Site officiel du cours](https://gabayae.github.io/bases_de_programmation_python/)
 
