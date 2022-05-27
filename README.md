@@ -19,8 +19,7 @@ en fonction de votre formation!), mais peut également être utilisé pour l'aut
 Nous nous concentrons uniquement sur Python 3. Ce cours, à la fois minimaliste et pratique, vous permettra de découvrir rapidement les concepts essentiels de la programmation en **Python**. Il faut dire que ça vaut la peine de s'intéresser à Python, c'est un langage qui sera forcément présent dans l'écosystème informatique des années à venir. 
 
 
-*Pour ce cours, des discussions LIVE! peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions, même quand le cours sera terminé.*
-
+**Pour ce cours, des discussions LIVE! peuvent se faire sur peuvent se faire sur [**Slack**](https://join.slack.com/t/init2py/shared_invite/zt-15o94kek5-2zbtrHDxr5ZZ8dvkf2IsLA). Vous pourrez toujours joindre la discussion et y poser vos questions, même quand le cours sera terminé.*
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce cours n'attend de vous aucun prérequis de programmation.
 
