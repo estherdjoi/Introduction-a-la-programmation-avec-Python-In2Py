@@ -1,1 +1,1 @@
-Les cahiers virtuels de cours pour `Programmation et notions de base en informatique avec Python`.
+Les cahiers virtuels de cours pour `Introduction à la programmation avec Python`.
